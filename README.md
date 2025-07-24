@@ -85,4 +85,14 @@
 
 ![Image](https://github.com/user-attachments/assets/fbe76445-c248-4842-ba8f-2b5051dfc20b)
 
-- 
+- The above donut visual is showing sales performance among various segments.
+- conditional color formatting has been applied varying from most sales in greenish to least sales in greyish.
+- "Consumer" segment accounts for half of the total sales volume.
+- "Corporate" segment creating approx. 1/3rd of the total sales while only 18.92 % sales is from "Home Office" segment which is the least of all.
+- "Home Office" sales is very low because it's % returned orders is almost double of other segments, although there has been significant improvement in the current year, 2023 as it's % returned orders have reduced by 17.05 %.
+
+![Image](https://github.com/user-attachments/assets/8e350e42-35e2-4fa5-8d4e-c2f24804bcaf)
+
+![Image](https://github.com/user-attachments/assets/d2e3b841-6d66-4550-a676-b15419a56f61)
+
+![Image](https://github.com/user-attachments/assets/0563126d-f3de-4133-9eae-9b64a7eed670)
